@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "fruit-store": {
+      "command": "python3",
+      "args": [
+        "/Users/adarsh/Documents/Git/fruit_store_server.py"
+      ],
+      "env": {}
+    }
+  }
+}
+
